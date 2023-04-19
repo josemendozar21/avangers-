@@ -17,3 +17,6 @@
 * Wasp
 * Antman
 * Nick Fury 
+* Ivette
+* Gilma 
+* Jose 
